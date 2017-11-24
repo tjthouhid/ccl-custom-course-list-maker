@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: Custom Course List Maker
-* Plugin URI: https://github.com/tjthouhid/edd-license-activator-notifier
+* Plugin URI: https://github.com/tjthouhid/ccl-custom-course-list-maker
 * Description: This is a plugin for make coustom course list shorted by country,versity and level.
 * Version: 1.0.1
 * Author: Tj Thouhid
